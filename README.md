@@ -1,7 +1,7 @@
 # backEndInterview
 
 ## 자바
-- JVM 이란 무엇이고 왜 필요한지 설명해주실 수 있을까요? JVM의 스택과 힙메모리 영역에 대해 아는 만큼 설명해주실 수 있을까요?
+- JVM 이란 무엇이고 왜 필요한지 설명해 주실 수 있을까요? JVM의 스택과 힙메모리 영역에 대해 아는 만큼 설명해 주실 수 있을까요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -41,7 +41,7 @@
 </div>
 </details>
 
-- Java가 컴파일되는 과정은 어떻게 되는지 설명해주실 수 있을까요?
+- Java가 컴파일되는 과정은 어떻게 되는지 설명해 주실 수 있을까요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -71,7 +71,7 @@
 </div>
 </details>
 
-- 클래스와 인스턴스의 차이에 대해 설명해주실 수 있을까요?
+- 클래스와 인스턴스의 차이에 대해 설명해 주실 수 있을까요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -96,7 +96,7 @@ oop의 관점에서 보자면 객체가 메모리에 할당되어 실제 사용�
 </div>
 </details>
 
-- JVM의 구조에 대해 설명해주실 수 있을까요?
+- JVM의 구조에 대해 설명해 주실 수 있을까요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
