@@ -148,4 +148,70 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 - 실행 데이터 영역은 메서드영역, 힙영역, 스태경역, 네이티브메서드 스택영역으로 구성되어있습니다
 </div>
 </details>
+  
+## 자료구조,알고리즘
+- 스택과 큐에 대한 개념과 활용 예시를 설명해 주실 수 있을까요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+  
+  
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
 
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+-트리와 그래프를 비교해서 설명해 주실 수 있을까요? 
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+  
+  
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
+
+-시간복잡도와 공간복잡도가 무엇인지 설명해주실 수 있을까요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+  
+  
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
