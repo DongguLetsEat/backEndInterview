@@ -152,11 +152,14 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 ## 자료구조,알고리즘
 - 스택과 큐에 대한 개념과 활용 예시를 설명해 주실 수 있을까요?
 <details>
-<summary>계현준</summary>
-<div markdown="1">
-  
-  
-</div>
+  <summary>계현준</summary>
+  <div markdown="1">
+    <p>스택은 LIFO(Last In First Out) 형태의 자료구조로 책을 쌓는 것처럼 가장 마지막에 넣은 데이터가 가장 먼저 삭제되는 자료구조입니다.</p>
+    <p>스택은 자료의 순서를 뒤집는데 유용하게 사용됩니다. 스택은 LIFO구조로 되어 있기 때문에 스택에 넣은 요소를 다시 꺼내어 배열에 저장하면 데이터의 순서가 뒤집혀 저장됩니다.</p>
+    <br/>
+    <p>큐는 FIFO(First In First Out)의 형태의 자료구조로 가장 먼저 삽입된 자료가 가장 먼저 삭제되는 자료구조입니다. </p>
+    <p>큐는 데이터가 입력된 시간순서 대로 처리되어야 하는 FIFO구조로 되어있기 때문에 프린터 출력처리나 은행창구의 대기 같이 대기열이 필요한 경우 사용합니다.</p>
+  </div>
 </details>
 <details>
 <summary>이동재</summary>
@@ -190,11 +193,13 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
   
 - 트리와 그래프를 비교해서 설명해 주실 수 있을까요? 
 <details>
-<summary>계현준</summary>
-<div markdown="1">
-  
-  
-</div>
+  <summary>계현준</summary>
+  <div markdown="1">
+    <p> 먼저 트리는 그래프라는 큰 집합 안에 속해 있는 자료구조 입니다.</p>  
+    <p> 그래프는 LinkedList를 기반으로 노드와 노드 간을 연결하는 간선으로 구성되고 계층이 없는 자료구조입니다. </p>  
+    <br/>
+    <p> 트리는 그래프의 한 종류로 루트 노드가 존재하고, 부모-자식 관계로 이루어진 계층적인 모델의 자료구조입니다.</p>  
+  </div>
 </details>
 <details>
 <summary>이동재</summary>
@@ -227,11 +232,12 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 - 시간복잡도와 공간복잡도가 무엇인지 설명해 주실 수 있을까요?
 <details>
-<summary>계현준</summary>
-<div markdown="1">
-  
-  
-</div>
+  <summary>계현준</summary>
+  <div markdown="1">
+    <p>시간복잡도는 알고리즘이 어떤 문제를 해결하는데 걸리는 시간을 의미하고 공간복잡도는 작성한 프로그램이 얼마나 많은 공간(메모리)을 차지하느냐를 분석하는 방법입니다.</p>
+    <br/>
+    <p>+복잡도란 알고리즘 성능을 평가하기 위한 척도이며 복잡도가 낮을수록 좋은 알고리즘이라고 합니다.</p>
+  </div>
 </details>
 <details>
 <summary>이동재</summary>
