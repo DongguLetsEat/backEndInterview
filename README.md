@@ -172,7 +172,7 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 </div>
 </details>
   
--트리와 그래프를 비교해서 설명해 주실 수 있을까요? 
+- 트리와 그래프를 비교해서 설명해 주실 수 있을까요? 
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -194,7 +194,7 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 </div>
 </details>  
 
--시간복잡도와 공간복잡도가 무엇인지 설명해주실 수 있을까요?
+- 시간복잡도와 공간복잡도가 무엇인지 설명해주실 수 있을까요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
