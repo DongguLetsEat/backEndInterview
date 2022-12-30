@@ -255,4 +255,92 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 공간복잡도는 작성한 프로그램이 얼마나 많은 메모리를 차지 하느냐를 분석하는 방법입니다
 </div>
-</details>  
+</details>
+  
+## 네트워크
+- 브라우저에 google.com 을 치면 일어나는 일련의 일들을 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+## 프로젝트
+- 프로젝트에 대해 설명해 주세요
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<p>프로젝트 마운틴즈는 인증을 통해 등산을 추천해 주는 서비스입니다.</p>
+<p>서비스 배포는 spring boot를 기반으로 CI/CD 환경으로 구성했습니다.</p>
+<p>유저에게 각 산에 대한 정보를 제공해주고 카카오맵을 통해 산의 위치도 제공해줍니다.</p>
+<p>유저가 해당 산의 위치에서 사진을 인증하면 인증포인트를 주어 뱃지를 주는 서비스도 제공하고 있습니다.</p>
+<p>인증포인트를 통한 뱃지와 유저간의 랭킹 시스템같은 게임적인 요소를 제공하여 등산을 보다 즐겁게 이용할 수 있게 도와주는 서비스입니다.</p>
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+- 프로젝트에서 본인이 맡은 역할은 무엇인지 설명해 주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+ ## 인성
+- 개발자가 되기로 한 이유에 대해서 말씀해주실 수 있니요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+ 
