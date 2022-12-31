@@ -394,7 +394,7 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
-- Redis, MongoDB, Memcached 의 차이에 대해 설명해주세요
+- Redis, Memcached 의 차이에 대해 설명해주세요
 <details>
   <summary>계현준</summary>
   <div markdown="1">
