@@ -369,4 +369,28 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 </div>
 </details>
+
+  
+ ## 데이터 베이스
+ - SQL, NoSQL 차이에 대해 설명해 주세요
+ <details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
  
