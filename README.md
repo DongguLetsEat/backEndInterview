@@ -372,8 +372,8 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
   
  ## 데이터 베이스
- - SQL, NoSQL 차이에 대해 설명해 주세요
- <details>
+- SQL, NoSQL 차이에 대해 설명해 주세요
+<details>
   <summary>계현준</summary>
   <div markdown="1">
     
@@ -393,4 +393,137 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 </div>
 </details>
+
+- Redis, MongoDB, Memcached 의 차이에 대해 설명해주세요
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
+  
  
+ - DB를 사용하는 이유를 간단하게 설명해주세요
+ <details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
+  
+ 
+- 정규화에 대해 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>   
+  
+- 이상현상에 대해 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+- Redis의 작동원리 및 프로젝트에서 어떻게 사용했는지 설명해주세요.
+ <details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>    
+  
+- 모든 요소에 인덱스를 걸지 않는 이유에 대해 설명해주세요.
+ <details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>      
