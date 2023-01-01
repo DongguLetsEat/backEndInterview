@@ -148,7 +148,198 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 - 실행 데이터 영역은 메서드영역, 힙영역, 스태경역, 네이티브메서드 스택영역으로 구성되어있습니다
 </div>
 </details>
-  
+
+- 오버로딩과 오버라이딩 차이에 대해 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 오버로딩과 오버라이딩은 어떤 상황에서 사용하나요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 객체지향(oop)란 무엇인지 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 객체지향(oop)의 특징에 대해 설명해주세요.(+예시)
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 객체지향(oop)의 solid 라는 개념에 대해 설명해주세요.(+예시)
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 어노테이션에 대해서 설명해주세요.(+사용예시)
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 추상 클래스와 인터페이스 차이는?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 접근제어자에 대해서 아는대로 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+
+
+
+
+
+
+
+
+
 ## 자료구조,알고리즘
 - 스택과 큐에 대한 개념과 활용 예시를 설명해 주실 수 있을까요?
 <details>
@@ -256,7 +447,16 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 공간복잡도는 작성한 프로그램이 얼마나 많은 메모리를 차지 하느냐를 분석하는 방법입니다
 </div>
 </details>
-  
+
+
+
+
+
+
+
+
+
+
 ## 네트워크
 - 브라우저에 google.com 을 치면 일어나는 일련의 일들을 설명해주세요.
 <details>
@@ -290,7 +490,15 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 </div>
 </details>
-  
+
+
+
+
+
+
+
+
+
 ## 프로젝트
 - 프로젝트에 대해 설명해 주세요
 <details>
@@ -341,6 +549,13 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
   
+  
+  
+  
+  
+  
+  
+  
  ## 인성
 - 개발자가 되기로 한 이유에 대해서 말씀해주실 수 있니요?
 <details>
@@ -369,6 +584,15 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 </div>
 </details>
+
+
+
+
+
+
+
+
+
 
   
  ## 데이터 베이스
