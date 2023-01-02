@@ -153,6 +153,15 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 <details>
   <summary>계현준</summary>
   <div markdown="1">
+    <p>오버로딩은</p>
+    <p>같은 이름의 메서드를 재 정의할 수 있는데 
+      비슷한 기능을 가진 메서드들의 이름을 지을 때, 각 메서드 별로 이름을 구별하지 않고 하나의 이름으로 통일성 있게 사용할 수 있다는 장점이 있습니다.</p>
+    <p>오버로딩은 매개변수가 달라야 하거나 타입이 달라야 사용이 가능합니다.<p/>
+    <br/>
+    <p>오버라이딩은</p>
+    <p>부모클래스로 부터 상속 받은 메서드를 재 정의 하는 것이라고 할 수 있는데
+    부모로부터 상속받은 메서드를 그대로 사용하는 경우도 있지만 필요에 따라 재정의 해야할 때 사용하게 됩니다.</p>
+    <p>오버라이딩은 매개변수가 같아야 하고 리턴타입이 같아야 사용이 가능합니다.</p>
     
   </div>
 </details>
@@ -178,7 +187,9 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 <details>
   <summary>계현준</summary>
   <div markdown="1">
+    <p>오버로딩은 주로 생성자가 여러개 필요한 경우 유용하게 사용됩니다.</p>
     
+    <p>오버라이딩은 결합도를 낮추기 위해 interface가 사용되는데 이때 오버라이딩이 적극 사용됩니다.</p>
   </div>
 </details>
 
@@ -223,7 +234,10 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-    
+    - 캡슐화
+    - 추상화
+    - 상속
+    - 다형성
   </div>
 </details>
 
