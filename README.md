@@ -265,30 +265,6 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 </details>
 
 
-- 어노테이션에 대해서 설명해주세요.(+사용예시)
-<details>
-  <summary>계현준</summary>
-  <div markdown="1">
-    
-  </div>
-</details>
-
-<details>
-<summary>이동재</summary>
-<div markdown="1">
-<p>Annotation은 클래스와 메서드에 추가하여 각각 다양한 기능을 부여하는 역할을 합니다.</p>
-<p>스프링의 mvc패턴을 구현할 때 대표적인 Annotation인 @Repository @Controller @Service 가 있습니다.</p>
-<p>스프링에서 각각 클래스에 Repository, Controller, Service 역할을 명시해줍니다.</p>  
-</div>
-</details>
-
-<details>
-<summary>조평연</summary>
-<div markdown="1">
-
-</div>
-</details>
-
 
 - 추상 클래스와 인터페이스 차이는?
 <details>
@@ -850,3 +826,26 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </details>
 
  
+ - 어노테이션에 대해서 설명해주세요.(+사용예시)
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<p>Annotation은 클래스와 메서드에 추가하여 각각 다양한 기능을 부여하는 역할을 합니다.</p>
+<p>스프링의 mvc패턴을 구현할 때 대표적인 Annotation인 @Repository @Controller @Service 가 있습니다.</p>
+<p>스프링에서 각각 클래스에 Repository, Controller, Service 역할을 명시해줍니다.</p>  
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
