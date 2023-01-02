@@ -211,7 +211,7 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-    
+    객체지향이란, 데이터를 추상화시켜 객체를 만들고 객체들 간의 상호작용을 통해 로직을 구성하는 프로그래밍 방법입니다.
   </div>
 </details>
 
