@@ -651,7 +651,29 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
   
+- QueryDSL을 사용하셨는데 어떤 상황에서 쓰셨나요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
   
+  </div>
+</details>
+<details>
+<summary>이동재 //다듬어서 수정</summary>
+<div markdown="1">
+<p>QueryDSL은 필터를 이용해 산을 검색하는 기능에 적용했습니다.</p>
+<p>QueryDSL을 사용하면 동적으로 데이터 처리 문자열이 아닌 자바에 내장되어 있는 코드로 쿼리를 생성하여 더 쉽고 간결합니다.</p>
+<p>형태도 SQL문과 비슷하여 가독성이 좋습니다.</p>
+<p>기존에 JPA만을 가지고 구현을 하려했으나 필터 기능이 복잡한 조건을 동적 처리하는 기능이다 보니 JPA로는 코드가 너무 길고 복잡해지는 문자가 생겼습니다.</p>
+<p>문자열을 통해서 쿼리를 만들게 되면 작성한 문자열 쿼리 중 띄어쓰기 혹은 알파벳의 오류가 있을 경우 이를 컴파일 타임에서 잡아주지 못합니다.</p>
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
   
   
   
