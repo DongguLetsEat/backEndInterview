@@ -544,6 +544,25 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </details>
 
 
+- MSA 아키텍쳐에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
@@ -593,7 +612,27 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+## 기타
+- 에자일 방식에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+  
 
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
@@ -799,7 +838,9 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>저희가 사용한 MYSQL은 RDB입니다.</p>
+<p>저희 프로젝트 같은 경우 다양한 산들과 유저들의 인증 데이터가 중복이 배제되어야 하고 엔티티 간에 관계를 정의해야합니다.</p>
+<p>또한 복잡한 조건을 주어 검색을 하는 기능들이 있기에 SQL을 사용해 데이터를 가져와 줄 RDB인 MYSQL을 사용했습니다.</p>
 </div>
 </details>
 
@@ -822,7 +863,16 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>MYSQL은 일단 다른 RDB에 비해 빠르고 안정적이며 사용하기 쉬웠습니다..</p>
+<p>또한, 고사양을 요구하지 않으며 무료입니다.</p>
+<p>웹환경에 맞게 설계되어 있기 때문에 웹 서비스를 구현하는 저희 프로젝트에서는 MYSQL을 선택했습니다.</p>
+<br>
+<p>다른 RDB로는  Maria DB, MS-SQL 등이 있습니다.</p>
+<p>일단 처음 RDB구현에 MYSQL을 사용한 이유는</p>
+<p>가장 대중적인 DB이다 보니 많은 유저 경험과 레퍼런스가 있어 처음 구현과 오류 해결에 더 유리하다 판단되어 사용하게 되었습니다.</p>
+<p>추후 RDB구현에 좀 더 미래 지향적인 RDB를 사용한다면 Maria DB도 사용해 보려고합니다.</p>
+<p>Maria DB도 MySQL을 포크한 서비스라서 어떻게 보면 많은 유저 경험과 레퍼런스가 있습니다.</p>
+<p>또한 오픈소스이기 떄문에 기업에 인수된 MySQL보다 정책적인 면에서 더 안정적이고 업데이트가 활발할거 같습니다.</p>
 </div>
 </details>
 
@@ -852,7 +902,7 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <summary>조평연</summary>
 <div markdown="1">
 
-- REST full API에 대한 개념과 프로젝트에 어떻게 적용하셨는지 설명해주세요.
+- 
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -904,13 +954,45 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 최근에 했던 개발공부가 있나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
 
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+      
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
 
+</div>
+</details>
 
+- 개발의 어떤점에 흥미를 가지고 있나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
 
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+      
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
 
-
-
+</div>
+</details>
 
 
   
@@ -1110,7 +1192,12 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>Redis는 DB에 있는 정보를 가져오는 것이 아니라 인메모리 방식의 캐시에 있는 정보를 가져오는 것입니다.</p>
+<p>유저가 사용했던 정보들이 캐시에 들어있어 바로 가져와서 DB까지 가서 정보를 찾는 시간을 단축할 수 있습니다.</p>
+<br>
+<p>프로젝트 마운틴즈에서는 태그 조회할 때 Redis 캐싱처리를 적용했습니다.</p>
+<p>저희가 미리 DB에 저장해 놓은 태그가 공통적이고 반복적으로 보여지게 될 정보입니다.</p>
+<p>매번 DB에 접근하는 것을 redis라는 인메모리 방식의 캐시를 사용하면 사용자의 처리 속도를 더 높여줄 수 있을것 같아서 적용했습니다.</p>
 </div>
 </details>
 
@@ -1159,6 +1246,27 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <p>인덱스 관리를 위한 별도의 저장공간을 추가로 필요해 오히려 독이 될 수 있어 모든 요소에 인덱스를 걸지 않습니다</p>
 </div>
 </details>      
+
+
+- 외래키의 개념에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
   
   
