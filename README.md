@@ -673,12 +673,207 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <div markdown="1">
 
 </div>
+</details>
+
+
+
+- 프로젝트 서비스 아키텍쳐 구성에 대해 설명해 주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+- CORS 오류를 어떻게 해결했나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 프로젝트에서 기술 외적인 문제가 있었나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 프로젝트 기술적 문제(트러블슈팅)가 있었나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 프로젝트에서 성능을 개선한 경험이 있나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+- MYSQL(RDB)을 왜 사용하셨나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+  
+- RDB중에서도 MYSQL을 사용한 이유가 있나요? 혹시 다른 선택지는 있나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- REST full API에 대한 개념과 프로젝트에 어떻게 적용하셨는지 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+- REST full API에 대한 개념과 프로젝트에 어떻게 적용하셨는지 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+
+</div>
 </details>  
-  
-  
-  
-  
-  
   
  ## 인성
 - 개발자가 되기로 한 이유에 대해서 말씀해주실 수 있니요?
