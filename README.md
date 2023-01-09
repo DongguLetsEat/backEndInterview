@@ -425,12 +425,71 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 </div>
 </details>
 
+- 제네릭에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
 
+<details>
+<summary>이동재</summary>
+<div markdown="1">
 
+</div>
+</details>
 
+<details>
+<summary>조평연</summary>
+<div markdown="1">
 
+</div>
+</details>
 
+- String, StringBuilder, StringBuffer 에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
 
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- Error, Exception 차이에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
