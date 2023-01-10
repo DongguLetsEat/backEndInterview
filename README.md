@@ -999,7 +999,15 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>Redis, Memcached는 둘다 In-Memory 형태의 NoSQL입니다.</p>
+<p>Redis, Memcached의 차이를 비교하면 Redis가 더 많은 기능을 제공하므로 Redis의 추가적인 기능으로 설명할 수 있습니다.</p>
+<p>Memcached가 별도의 데이터 타입 없이 문자열만 저장한다면, Redis는 String, Hash, List 등 다양한 자료 구조를 제공합니다.</p>
+<p>Redis에서 다양한 데이터형의 도움을 받을 수 있는 반면, 동일한 기능을 Memcached로 하려면 앱에서 직접 개발해야 하는 경우가 발생합니다.</p>
+<br>
+<p>둘의 가장 큰 차이는 데이터를 저장할 수 있는지의 여부입니다.</p>
+<p>Redis는 RDB 기반으로 데이터를 저장할 수 있는 기능이 있는 반면, Memcached는 들고 있는 데이터를 저장할 수 있는 기능이 없습니다.</p>
+<p>Memcached는 캐시로서의 기능을 수핼할 수 밖에 없는 반면, Redis는 캐시로도 쓰일 수 있고, 데이터 저장소로도 쓰일 수 있습니다.</p>
+<p>프로젝트에서 데이터를 RDB 기반으로 관리하고 있다면, Redis만 써야합니다.</p>
 </div>
 </details>
 
@@ -1024,7 +1032,9 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>저희 프로젝트 같은 경우 태그 조회할 때 Redis 캐싱처리를 적용했습니다.</p>
+<p>저희가 미리 DB에 저장해 놓은 태그가 공통적이고 반복적으로 보여지게 될 정보입니다.</p>
+<p>매번 DB에 접근하는 것을 redis라는 인메모리 방식의 캐시를 사용하면 사용자의 처리 속도를 더 높여줄 수 있을것 같아서 적용했습니다.</p>
 </div>
 </details>
 
@@ -1049,7 +1059,11 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>우리가 프로그램을 실행하는 상태를 프로세스라고 합니다.</p>
+<p>스레드는 그 프로세스 내에서 실제로 작업을 수행하는 주체를 의미합니다.</p>
+<p>프로세스에서 한 개의 작업만 한다면 싱글 스레드이고, 한 개 이상의 작업을 한다면 멀티 스레드라고 합니다.</p>
+<p>예를 들면 크롬을 열어 게임만 다운로드 받고있으면 싱글 스레드입니다.</p>
+<p>그러다 검색도 하고 영상도 본다면 멀티 스레드인 것입니다.</p>
 </div>
 </details>
 
@@ -1144,7 +1158,9 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>Annotation은 클래스와 메서드에 추가하여 각각 다양한 기능을 부여하는 역할을 합니다.</p>
+<p>스프링의 mvc패턴을 구현할 때 대표적인 Annotation인 @Repository @Controller @Service 가 있습니다.</p>
+<p>스프링에서 각각 클래스에 Repository, Controller, Service 역할을 명시해줍니다.</p>  
 </div>
 </details>
 
