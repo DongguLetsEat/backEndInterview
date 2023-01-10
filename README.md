@@ -984,6 +984,9 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
 <summary>조평연</summary>
 <div markdown="1">
+  
+</div>
+</details>
 
 - Redis와 Memcahed의 차이
 <details>
