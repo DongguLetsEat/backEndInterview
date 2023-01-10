@@ -985,6 +985,174 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <summary>조평연</summary>
 <div markdown="1">
 
+- Redis와 Memcahed의 차이
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+<p>Memcached와 Redis 둘다 key-value 를 기반으로 둔 NoSQL 입니다 </p>
+<p>하지만 Memcached의 대부분의 기능을 Redis로도 커버가 가능하고</p>
+<p>Redis는 list, hash, set 등 다양한 자료구조를 제공하여</p>
+<p>데이터 조작에 편리성이 있습니다 이러한 이유로 Redis를 사용하였습니다</p>
+</div>
+</details>
+
+- 왜 Redis 사용했나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+<p>먼저 저희 프로젝트에서는 클라이언트 들에게 산을 추천해주는 태그라는 기능이 있습니다</p>
+<p>이 태그안의 산들은 모든 유저에게 중복되고 반복적으로 보여주어야하는 목록입니다</p>
+<p>이때 같은 값들을 계속해서 DB에서 불러와야하니 성능저하가 발생 할 것이라 판단해</p>
+<p>캐싱을 이용해서 처리하고자 Redis를 사용하여 처리했습니다</p>
+</div>
+</details>
+
+- 싱글쓰레드와 멀티쓰레드 설명해주세요
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- RDB와 NoSQL의 차이를 설명해주세요
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+<p>RDB는 말 그대로 관계를 기반으로 하는 데이터베이스 입니다</p>
+<p>연관관계를 가진 테이블의 집합으로 구성되어있어</p>
+<p>복잡한 쿼리와 join연산이 가능하며 수직확장에 용이합니다</p>
+
+<p>NoSQL은 Not only SQL의 약자로 SQL만 사용하는것이 아닌</p>
+<p>다양한 방식으로 데이터를 표현하는 데이터베이스입니다</p>
+<p>유연한 스키마 구조를 가지고 있고 변경에 용이하며 수평적 확장에 용이하지만</p>
+<p>복잡한 쿼리와 join연산을 사용하기 힘듭니다</p>
+</div>
+</details>
+
+- 수직적 확장과 수평적 확장을 설명해주세요
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- Bean이란 무엇인가요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 어노테이션은 무엇인가요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+<p>사전적 의미로 주석을 뜻합니다 즉 프로그램에게 추가적인 정보를 제공해주는 메타데이터라고 볼 수 있습니다</p>
+<p>예를들어 컴파일러에게 문법상 에러를 체크 해도록 정보를 제공하고 특정 역할을 수행하게 지정할 수 도 있습니다</p>
+</div>
+</details>
+
 - 
 <details>
 <summary>계현준</summary>
@@ -1006,7 +1174,7 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 
 </div>
-</details>  
+</details>
   
  ## 인성
 - 개발자가 되기로 한 이유에 대해서 말씀해주실 수 있니요?
