@@ -717,8 +717,53 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- CI/CD에 대하여 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
 
+  </div>
+</details>
 
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
+  
+- 객체지향이 무엇이라고 생각하시나요?, OOP에서 지향하는 바가 무엇일까요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+!!수정!!
+쉽게 정의하면 객체지향은 의존성 관리라고 말할 수 있습니다.
+
+객체지향으로 의존성을 관리함으로써 변경 영향을 최소화하고 객체마다 독립적인 개발이 가능해집니다.
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
