@@ -1264,6 +1264,182 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 성격의 장점과 단점에 대해 말해주세요
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 팀원(또는 리더)를 하셨는데, 하면서 어려우셨던 점과 어떻게 해결하셨는지 알려주세요
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+- 입사를 하게 된다면 있었으면 하는 문화와 없었으면 하는 문화가 있을까요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 만약에 입사를 하게 되신다면 저희 회사에게 이득이 될 만한 일이 있을까요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 억대 연봉을 받는 개발자의 강점은 무엇일까요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 개발을 할 때 중요하다고 생각하는 3가지 말씀해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+- 개발자란 무엇이라고 생각하나요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 제일 자신있는 스택은 어떤 것인가요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
 
   
  ## 데이터 베이스
