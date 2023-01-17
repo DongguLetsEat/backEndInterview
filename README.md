@@ -695,6 +695,31 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- HTTP와 HTTPS의 차이점에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<p>HTTP와 HTTPS의 차이점은 SSL 인증서입니다.</p>
+<p>기존 HTTP는 서버에서 브라우저로 전송되는 정보가 암호화되지 않는 문제가 있습니다.</p>
+<p>즉, 데이터가 중간에 쉽게 도난당할 수 있습니다.</p>
+<p>HTTPS는 SSL 인증서를 통해 통신을 암호화해 HTTP의 보안 문제를 해결한 프로토콜입니다.</p>
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
 ## 기타
 - 에자일 방식에 대해서 설명해주세요.
 <details>
@@ -773,8 +798,49 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 싱글톤 패턴에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
 
+  </div>
+</details>
 
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 싱글톤 패턴의 대표적인 예시에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 ## 프로젝트
 - 프로젝트에 대해 설명해 주세요
@@ -952,6 +1018,28 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 
 
 - 프로젝트에서 성능을 개선한 경험이 있나요?
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+- 프로젝트에서 잘하지 못했던 상황이 있었나요?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
@@ -1524,8 +1612,50 @@ NOSQL
 </div>
 </details>
 
+- 본인이 생각하는 이상적인 개발 환경이 있나요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
 
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
   
+- 다양한 개발 포지션이 있는데 백엔드를 선택하게 된 이유가 있나요?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
  ## 데이터 베이스
 - RDBMS, NoSQL 차이에 대해 설명해 주세요
 <details>
