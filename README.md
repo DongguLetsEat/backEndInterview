@@ -189,7 +189,6 @@ JVM의 구조는 클래스 로더(Class Loader), 실행 엔진(Execution engine)
   <summary>계현준</summary>
   <div markdown="1">
     <p>오버로딩은 주로 생성자가 여러개 필요한 경우 유용하게 사용됩니다.</p>
-    
     <p>오버라이딩은 결합도를 낮추기 위해 interface가 사용되는데 이때 오버라이딩이 적극 사용됩니다.</p>
   </div>
 </details>
