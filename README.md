@@ -455,7 +455,8 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>제네릭은 데이터의 타입을 하나로 지정하지 않고 사용할 때마다 범용적이고 포괄적으로 지정한다는 의미입니다</p>
+<p>제네릭 타입을 사용함으로써 잘못된 타입이 사용될 수 있는 문제를 컴파일 과정에서 제거할 수 있어 에러를 사전에 방지할 수 있습니다</p>
 </div>
 </details>
 
@@ -487,7 +488,9 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>String은 불변의 속성을 가지며, StringBuffer와 StringBuilder는 가변의 속성을 가집니다.</p>
+<p>StringBuffer는 동기화를 지원하여 멀티 쓰레드 환경에서 주로 사용하며</p>
+<p>StringBuilder는 동기화를 지원하지 않아 싱글 쓰레드 환경에서 주로 사용합니다</p>
 </div>
 </details>
 
