@@ -1752,7 +1752,8 @@ NOSQL
 </div>
 </details>
 
- ## 데이터 베이스
+
+## 데이터 베이스
 - RDBMS, NoSQL 차이에 대해 설명해 주세요
 <details>
   <summary>계현준</summary>
