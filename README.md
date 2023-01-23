@@ -1603,6 +1603,9 @@ NOSQL
 <details>
 <summary>조평연</summary>
 <div markdown="1">
+  
+</div>
+</details>  
 
 - 입사를 하게 된다면 있었으면 하는 문화와 없었으면 하는 문화가 있을까요?
 <details>
