@@ -2239,3 +2239,71 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <p>오버라이딩 할때 @Override하고 적어주어 컴파일 에러시 알 수 있는 예시가 있습니다</p>
 </div>
 </details> 
+
+- 영속성(Persistence) 컨텍스트란에 대해서 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<p>영속성 컨텍스트는 엔티티를 영구 저장하는 환경을 의미합니다.</p>
+<p>애플리케이션과 DB 사이에서 객체를 보관하는 가상의 DB 같은 역할을 합니다.</p>
+<p>엔티티 매니저를 통해 엔티티를 저장하거나 조회하면 엔티티 매니저는 영속성 컨텍스트에 엔티티를 보관하고 관리합니다.</p>
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
+
+- FetchType에서 즉시로딩과 지연로딩에 대해서 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
+
+- JPA 연관관계 매핑 @OneToMany @ManyToOne @OneToOne @ManyToOne에 대해서 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
