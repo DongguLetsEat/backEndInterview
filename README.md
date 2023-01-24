@@ -913,6 +913,37 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 동기, 비동기 방식에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+  <p>동기 : call하고 응답이 올 때까지 기다렸다가 다음 로직을 실행한다.</p>
+      <p>장점 : 안전성이 보장된다. 순서가 보장된다.</p>
+      <p>단점 : 느리다.</p>
+    
+    </br>
+    
+    <p>비동기 : call하고 응답이 오지 않아도 다음 로직을 실행한다.</p>
+      <p>장점 : 빠르다.</p>
+      <p>단점 : 처리 하기가 까다롭다. 순서가 보장이 되지 않는다.</p>
+    
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+<p>작업 계획을 짧은 단위로 세우고 시제품을 만들어 나가는 사이클을 반복함으로써</p>
+<p>고객의 요구 변화에 유연하고도 신속하게 대응하는 개발방법론 입니다</p>
+</div>
+</details>
+
+
 ## 프로젝트
 - 프로젝트에 대해 설명해 주세요
 <details>
