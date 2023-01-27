@@ -2136,7 +2136,28 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 </div>
 </details>
 
-  
+
+-  캐시란?
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    Cache에 데이터를 미리 복사해 놓으면 계산이나 접근 시간 없이 더 빠른 속도로 데이터에 접근할 수 있다.
+    결국 Cache란 반복적으로 데이터를 불러오는 경우에, 지속적으로 DBMS 혹은 서버에 요청하는 것이 아니라 Memory에 데이터를 저장하였다가 불러다 쓰는 것을 의미한다.
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+
   
   
   
