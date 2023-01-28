@@ -534,7 +534,9 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>Error는 실행 중 일어날 수 있는 치명적 오류를 말합니다. 컴파일 시점에 체크할 수 없고</p>
+<p>오류가 발생하면 프로그램은 비정상 종료되며 예측 불가능한 UncheckedException에 속합니다</p>
+<p>반면, Exception은 Error보다 비교적 경미한 오류이며, try-catch를 이용해 프로그램의 비정상 종료를 막을 수 있습니다.</p>
 </div>
 </details>
 
