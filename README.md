@@ -1628,11 +1628,11 @@ NOSQL
 </div>
 </details>
 
-- 
+- 스프링의 제어의 역전(IoC)이란?
 <details>
 <summary>계현준</summary>
 <div markdown="1">
-
+  제어의 역전이란, 간단히 말해서 객체의 생성 및 제어권을 사용자가 아닌 스프링에게 맡기는 것입니다.
 </div>
 </details>
 
