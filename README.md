@@ -605,6 +605,28 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 </div>
 </details>
 
+- equals와 ==의 차이에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+  
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<p>equals는 비교하고자 하는 대상의 값 자체를 비교할 수 있고, == 연산자는 비교하고자 하는 대상의 주소값을 비교합니다.</p>
+<p>==는 주소값이 같은지 아닌지 비교하는 것이고, equals()연산도 내부적으로 주소값을 비교하지만 String클래스에서는 equals()를 재정의해 내용을 비교하게 되어있습니다.</p>
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
