@@ -1581,7 +1581,7 @@ NOSQL
 <details>
 <summary>계현준</summary>
 <div markdown="1">
-
+  스프링 컨테이너가 관리하는 자바 객체를 빈(Bean)이라고 합니다.
 </div>
 </details>
 
