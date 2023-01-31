@@ -1638,7 +1638,8 @@ NOSQL
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>제어의 역전이란 메소드나 객체의 호출작업을 개발자가 결정하는 것이 아니라, Spring에서 결정하는 것을 의미합니다.</p>
+<p>Spring이 모든 의존성 객체를 Spring이 실핼될 때 다 만들어주고 필요한 곳에 주입시켜주는 것입니다.</p>
 </div>
 </details>
 
