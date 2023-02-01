@@ -859,6 +859,7 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </details>
 
 
+  
 ## 기타
 - 에자일 방식에 대해서 설명해주세요.
 <details>
@@ -1058,7 +1059,31 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 인증(Authentication)과 인가(Authorization)에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    인증이란?
+    - 유저가 누구인지 확인하는 절차입니다. 예시로 회원가입하고 로그인 하는 것을 들 수 있습니다.
+    인가란?
+    - 유저에 대한 권한을 허락하는 것입니다. 예시로 관리자에게는 작성과 수정권한을 부여하고 일반 회원에게는 작성 권한만 부여하는 것을 들 수 있습니다.
+    </div>
+</details>
 
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
 ## 프로젝트
 - 프로젝트에 대해 설명해 주세요
 <details>
