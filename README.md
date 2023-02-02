@@ -2383,6 +2383,30 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 </div>
 </details>
   
+- DCL(Data Control Language)에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    - DCL은 Data Control Language 의 약자로, 데이터를 정의하고 관리하는데 사용되는 언어 입니다.
+    - 사용예시로는 COMMIT, ROLLBACK, GRANT, REVOKE 을 떠올리면 됩니다.
+    - COMMIT : Transaction의 변경 내용을 최종 반영한다고 재판 결정하는 것입니다.
+    - ROLLBACK : Transaction의 변경 내용을 모두 취소하고 이전 상태로 되돌리는 것입니다.
+    - GRANT : 사용자에게 권한을 부여하는 것 입니다.
+    - REVOKE : 사용자의 권한을 취소하는 것 입니다.
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
   
  ## Spring & JPA 
  - DI란 무엇인지 설명해주시고 어떤 장단점이 있는지 설명해주세요.
