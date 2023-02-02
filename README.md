@@ -2338,7 +2338,28 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 </div>
 </details>
 
-  
+
+- DDL(Data Define Language)에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    - DDL은 Data Define Language 의 약자로, 스키마/도메인/테이블/뷰/인덱스를 정의/변경/제거할 때 사용하는 언어입니다.
+    - 테이블을 생성하고, 테이블 내용을 변경하고, 테이블을 제거하는 역할을 할 때 사용합니다.
+    - 사용예시로는 CREATE, ALTER, DROP 을 떠올리면 됩니다.
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
   
   
  ## Spring & JPA 
