@@ -2361,6 +2361,28 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 </div>
 </details>
   
+- DML(Data Manipulation Language)에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    - DML은 Data Manipulation Language 의 약자로, 데이터를 실질적으로 관리하는데 사용되는 언어 입니다.
+    - 테이블 안의 데이터 하나하나를 추가하고 삭제하고 수정할 때 사용합니다.
+    - 사용예시로는 INSERT, DELETE, UPDATE 을 떠올리면 됩니다.
+  </div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
+  
   
  ## Spring & JPA 
  - DI란 무엇인지 설명해주시고 어떤 장단점이 있는지 설명해주세요.
