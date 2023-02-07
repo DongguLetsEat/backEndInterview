@@ -633,6 +633,33 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 </div>
 </details>
 
+  
+- Call by Reference와 Call by Value의 차이에 대해서 설명해주세요.
+<details>
+  <summary>계현준</summary>
+  <div markdown="1">
+    - Call by value(값에 의한 호출)
+      - 장점 : 복사하여 처리하기 때문에 안전하다. 원래의 값이 보존된다.
+      - 단점 : 직접 참조를 하기 때문에 메모리가 사용량이 늘어난다.
+    - Call by reference(참조에 의한 호출)
+      - 장점 : 복사하지 않고 직접 참조를 하므로 빠르다.
+      - 단점 : 직접 참조를 하기 때문에 원래 값이 영향을 받는다.
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>  
 
 ## 자료구조,알고리즘
 - 스택과 큐에 대한 개념과 활용 예시를 설명해 주실 수 있을까요?
