@@ -1795,8 +1795,8 @@ NOSQL
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
-
+<p>제어의 역전은 말 그대로 제어를 개발자가 아닌 스프링에서 제어한다고 해서 제어의 역전이라고 생각하면 됩니다</p>
+<p>Spring이 모든 의존성 객체를 Spring이 실핼될 때 다 만들어주고 필요한 곳에 주입시켜주는 것입니다</p>
 </div>
 </details>
   
