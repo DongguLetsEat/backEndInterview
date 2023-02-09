@@ -2679,3 +2679,31 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 
 </div>
 </details> 
+
+-  Spring Web MVC의 Dispatcher Servlet의 동작 원리에 대해서 간단히 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+<li>Dispatcher-Servlet(디스패처 서블릿)은 Spring MVC패턴에서 프론트 컨트롤러 라고 말할 수 있습니다.</li>
+<p>Spring으로 만들어서 서비스 중인 웹서버가 있다고 가정해보겠습니다.</p>
+<p>서비스를 이용하는 유저가 웹서버에 원하는 요청을 보내면 처음에 디스패처 서블릿이라는 프론트 컨트롤러가 이 요청을 다받습니다.</p>
+<p>요청을 받은 디스패처 서블릿은 핸들러 매핑을 통해 이 요청에 맞는 컨트롤러를 결정합니다.</p>
+<p>url이나 form data 등 여러개의 데이터 등을 기반으로 해당 컨트롤러를 결정하는 것입니다.</p>
+<br>
+<p>다시 말해 개발자가 컨트롤러를 구현해두기만 하면 디스패처 서블릿이 알아서 적합한 컨트롤러로 위임을 해주는 구조입니다.</p>
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
