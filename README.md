@@ -592,7 +592,16 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>JAVA에서 문자열을 다루는 대표적인 클래스로 String, StringBuffer, StringBuilder 가 있습니다.</p>
+<li>String과 StringBuffer/StringBuilder 클래스의 가장 큰 차이점은 String은 불변(immutable)의 속성을 갖는다는 점입니다.</li>
+<p>String 클래스는 불변하기 때문에 문자열을 수정한다면 그 시점에 새로운 String 인스턴스가 생성됩니다.</p>
+<p>String 클래스에 문자열 추가,수정,삭제 등의 연산을 많이 사용하면 힙메모리가 부족하여 성능에 영향을 끼치게 됩니다.</p>
+<br>
+<li>이를 해결하기 위해  가변(mutable)성을 가지는 StringBuffer / StringBuilder 클래스가 도입되었습니다.</li>
+<p>가변성을 가지기 때문에 .append() .delete() 등의 API를 이용하여 동일 객체내에서 문자열을 변경하는 것이 가능합니다.</p>
+<p>문자열의 추가,수정,삭제가 빈번하게 발생할 경우라면 String 클래스가 아닌 StringBuffer/StringBuilder를 사용해야 합니다.</p>
+<p>StringBuffer는 동기화를 지원하여 멀티 쓰레드 환경에서 주로 사용하합니다.</p>
+<p>StringBuilder는 동기화를 지원하지 않아 싱글 쓰레드 환경에서 주로 사용합니다</p>
 </div>
 </details>
 
@@ -650,7 +659,18 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>함수 호출에는 두 가지 방법이 있습니다.</p>
+<li>1.Call by value(값에 의한 호출)은 함수 호출 시 넘기는 인자의 값이 매개변수에 복사되는 방식입니다.</li>
+<p>Call by value(값에 의한 호출)는 복사하여 처리하기 때문에 원래의 값이 보존되고 안전합니다.</p>
+<p>그러나 복사를 하기 때문에 메모리 사용량이 늘어나는 단점이 있습니다.</p>
+<br>
+<li>2. Call by reference(참조에 의한 호출)는 인자로 받은 값의 주소를 복사하는 방식입니다.</li>
+<p>Call by reference(참조에 의한 호출)는 복사하지 않고 직접 참조를 하기에 속도가 빠릅니다.</p>
+<p>하지만 직접 참조를 하기에 원래 값이 영향을 받습니다.</p>
+<br>
+<p>C언어에서는 포인터를 이용해서 매개변수의 주소값을 넘겨 참조(Reference)할 수 있습니다.</p>
+<p>JAVA에서는 포인터가 따로 없으며, 기본적인 매개변수는 Call by Value지만 예외적으로 배열과 클래스는 참조변수로 Call by Reference로 작동합니다.</p>
+<p>함수 호출의 두가지 방식은 간단히 말해 값을 복사를 하여 처리를 하느냐, 아니면 직접 참조를 하느냐 차이입니다.</p>
 </div>
 </details>
 
@@ -2384,8 +2404,7 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-   외래키는 두 테이블을 서로 연결하는 데 사용되는 키입니다.
-외래키가 포함된 테이블을 자식 테이블이라고 하고 외래키 값을 제공하는 테이블을 부모 테이블이라고합니다.
+    
   </div>
 </details>
 <details>
