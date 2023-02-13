@@ -1241,7 +1241,8 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-    !!작성!!
+    가장 최근에 했던 프로젝트는 1000만건 이상의 상품데이터와 600만건의 회원을 보유하고 있는 이커머스 프로젝트를 진행하였습니다.
+    해당 프로젝트의 주요 기능은 상품 검색기능 상품 주문, 취소 기능 등이 있습니다. 
   </div>
 </details>
 <details>
@@ -1290,7 +1291,7 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-  
+   
   </div>
 </details>
 <details>
