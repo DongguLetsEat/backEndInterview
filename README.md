@@ -1420,7 +1420,7 @@ CORS는 교차출처 리소스 공유로 출처가 다른 자원들을 공유할
 <details>
 <summary>계현준</summary>
 <div markdown="1">
-
+ 제일 최근에 했던 Spring Market이라는 프로젝트에서 27,000%의 검색, 정렬 속도 향상을 했던 경험이 있습니다.(인덱스 사용, Redis 사용)
 </div>
 </details>
 
