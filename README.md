@@ -325,7 +325,11 @@ ex) 예를들어 강아지, 고양이 가 있는데 두 동물 다 우는 메서
 <details>
   <summary>계현준</summary>
   <div markdown="1">
-    
+    - SRP(Single Responsibility Principle) : 단일 책임 원칙 클래스는 단 하나의 책임을 가져야 하며 클래스를 변경하는 이유는 단 하나의 이유이어야 합니다.
+    - OCP(Open-Closed Principle) : 개방-폐쇄 원칙 확장에는 열려 있어야 하고 변경에는 닫혀 있어야 합니다.
+    - LSP(Liskov Substitution Principle) : 리스코프 치환 원칙 상위 타입의 객체를 하위 타입의 객체로 치환해도 상위 타입을 사용하는 프로그램은 정상적으로 동작해야 합니다.
+    - ISP(Interface Segregation Principle) : 인터페이스 분리 원칙 인터페이스는 그 인터페이스를 사용하는 클라이언트를 기준으로 분리해야 합니다.
+    - DIP(Dependency Inversion Prinsiple) : 의존 역전 원칙은 구체화된 클래스에 의존하기 보다는 추상 클래스나 인터페이스에 의존해야 한다는 뜻입니다.
   </div>
 </details>
 
