@@ -1497,7 +1497,7 @@ CORS는 교차출처 리소스 공유로 출처가 다른 자원들을 공유할
 <details>
 <summary>계현준</summary>
 <div markdown="1">
-
+시간 안에 빠르게 프로젝트를 완성해야하는 상황에서 모두가 사용해본 경험이 있는 MySQL이 학습하기 제일 수월하다고 느꼈고 가장 큰 이유는 검색 성능 향상을 위해 MySQL에 종속 되어 있는 full-text-search 라는 검색 기능을 사용하기 위해 사용하였습니다.
 </div>
 </details>
 
