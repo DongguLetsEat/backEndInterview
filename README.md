@@ -1795,7 +1795,7 @@ NOSQL
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>Spring Bean은 스프링 컨테이너에 의해 관리되는 자바 객체를 의미합니다</p>
 </div>
 </details>
 
