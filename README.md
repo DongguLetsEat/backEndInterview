@@ -2534,7 +2534,8 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>테이블을 생성하고 변경하고 삭제할때 사용하는 언어입니다</p>
+<p>Creat, Alter, Drop, Treuncate 의 명령어가 있습니다</p>
 </div>
 </details>
   
@@ -2556,7 +2557,8 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>테이블에 값을 삽입하고 삭제하고 수정할때 사용하는 언어입니다</p>
+<p>Select, Insert, Update, Delete 의 명령어가 있습니다</p>
 </div>
 </details>
   
@@ -2581,7 +2583,8 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>조평연</summary>
 <div markdown="1">
-
+<p>데이터를 관리할때 사용하는 언어입니다</p>
+<p>Commit, Rollback, Grant, Revoke 의 명령어가 있습니다</p>
 </div>
 </details>
   
