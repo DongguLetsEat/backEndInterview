@@ -2543,7 +2543,12 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<p>DDL은 명령어를 입력하는 순간 작업이 즉시 반영(Auto Commit)되기 때문에 사용할 때 주의해야 합니다.</p>
+<p>CREATE	테이블을 생성하는 역할</p>
+<p>ALTER	테이블의 구조를 수정하는 역할</p>
+<p>DROP	테이블을 삭제하는 역할</p>
+<p>RENAME	테이블을 이름을 변경하는 역할</p>
+<p>TRUNCATE	테이블을 초기화하는 역할</p>
 </div>
 </details>
 <details>
