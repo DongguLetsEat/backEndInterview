@@ -2571,7 +2571,15 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 <details>
 <summary>이동재</summary>
 <div markdown="1">
-
+<li>데이터 조작 언어(DML:Data Manipulation Language)</li>
+<p>데이터베이스의 내부 데이터를 관리하기 위한 언어이다. 데이터를 조회, 추가, 변경, 삭제 등의 작업을 수행하기 위해 사용됩니다.</p>
+<p>DML에 의한 데이터 변동은 영구적인 변경이 아니기 때문에 ROLLBACK으로 다시 되돌릴 수 있습니다.</p>
+<p>또한, DML은 Target 테이블을 메모리 버퍼 위에 올려두고 변경을 수행하기 때문에, 실시간으로 테이블에 반영되지 않습니다.</p>
+<p>Commit 명령어를 통해 Transaction을 종료해야 해당 변경 사항이 테이블에 반영됩니다.</p>
+<p>SELECT	데이터베이스에서 데이터를 검색하는 역할</p>
+<p>INSERT	테이블에 데이터를 추가하는 역할</p>
+<p>UPDATE	테이블 내에 존재하는 데이터를 수정하는 역할</p>
+<p>DELETE	테이블에서 데이터를 삭제하는 역할</p>
 </div>
 </details>
 <details>
