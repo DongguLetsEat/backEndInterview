@@ -926,7 +926,25 @@ FIFO 방식으로 가장 먼저 삽입된 데이터가 가장 먼저 삭제된�
 </div>
 </details>
 
+- 레이어드 아키텍쳐에 대해서 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+  
+</div>
+</details>
+<details>
+<summary>이동재</summary>
+<div markdown="1">
 
+</div>
+</details>
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details>
 
 
 
