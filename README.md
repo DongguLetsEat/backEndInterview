@@ -3083,3 +3083,25 @@ SQL 쿼리문으로 간단하게 수행이 가능해 지기 때문에 사용합�
 
 </div>
 </details> 
+
+- @Autowied에 대해서 설명해주세요.
+<details>
+<summary>계현준</summary>
+<div markdown="1">
+    
+  </div>
+</details>
+
+<details>
+<summary>이동재</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>조평연</summary>
+<div markdown="1">
+
+</div>
+</details> 
